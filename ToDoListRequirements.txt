@@ -30,7 +30,7 @@ Tags:
 			- Efficiency and better organization - group similar task together? - saves time later
 			- Profitability - some task are more valuable than others
 	- Time related:
-		- SP - Story points - SP0.25, SP0.5, SP1, SP2, etc. (fibbonacci scale + 0.25, 0.5?)
+		- Story points - 0.25, 0.5, 1, 2, etc. (fibbonacci scale + 0.25, 0.5?)
 			- Reason: required for planning
 	- Topic related:
 		- SAFE (personal *safe*ty):
