@@ -1,0 +1,53 @@
+Main motivaitions:
+	- easy search - for now simple organizing were enough
+	- allow for partial share
+	- search by profit (more info below)
+	- search by time
+
+Projects (todoist free plan limits to 5):
+	- Reason: hard split into seperate, independent, important and easily manageable chunks 
+	- MIESZKANKO:
+		- Reason: there is always tons of things to improve / maintain at home; home influences whole life 
+		- Scope: home environment 
+		- Share with: flatmates
+	- SECURITY:
+		- Reason: you do wanna get pwned arent ya?
+		- Scope: cyber life 
+		- Share with: trusted
+	- XD:
+		- Reason: at least give some hope that some of them will be eventually done
+		- Scope: wohhoho projects 
+		- Share with: N>E>R>D>S
+	- GENERAL:
+		- Scope: tasks not suiting elsewhere
+		- Share with: none
+	- FUTURE USE
+
+Tags:
+	- Reasons: 
+		- Trade time assigning for: 
+			- Prioritization - some things needs to be done faster than others 
+			- Efficiency and better organization - group similar task together? - saves time later
+			- Profitability - some task are more valuable than others
+	- Time related:
+		- Story points - SP0.25, SP0.5, SP1, SP2, etc. (fibbonacci scale + 0.25, 0.5?)
+			- Reason: required for planning
+	- Topic related:
+		- SAFE (personal *safe*ty):
+			- Reason: its good to be safe
+		- ~~SEC (IT *sec*urity)~~ cancelled due to project commited to it
+	- Worthness:
+		- Reason: required for optimal planning; consumes resources to estimate:(
+		- In points (scale as SP with "W" prefix, eg.: W1, W2)
+		- Formula: TBD
+	- Cost:
+		- Reason: some tasks may be undoable due to high costs at the moment
+		- In points (scale as SP with "C" prefix, eg.: C1, C2)
+
+TODOIST specific:
+	p1, p2, p3, p4 are used in daily planning:
+		p1 - things have to be done today, max 1 item / multiple task with SP sum up to SP1
+		p2 - things to do after p1, up to SP4
+		p3 - things to do after p2, up to SP8
+		p4 - things to do when desire hits but other tasks were annihilated, no limits
+	Overdue tasks - up to 3 tasks, low priority tasks but with special importance, preferably should be done right after p4 
