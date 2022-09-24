@@ -1,6 +1,6 @@
 Main motivaitions:
-	- easy search - for now simple organizing were enough
 	- allow for partial share
+	- easy search - for now simple organizing were enough
 	- search by profit (more info below)
 	- search by time
 
@@ -30,17 +30,16 @@ Tags:
 			- Efficiency and better organization - group similar task together? - saves time later
 			- Profitability - some task are more valuable than others
 	- Time related:
-		- Story points - SP0.25, SP0.5, SP1, SP2, etc. (fibbonacci scale + 0.25, 0.5?)
+		- SP - Story points - SP0.25, SP0.5, SP1, SP2, etc. (fibbonacci scale + 0.25, 0.5?)
 			- Reason: required for planning
 	- Topic related:
 		- SAFE (personal *safe*ty):
 			- Reason: its good to be safe
 		- ~~SEC (IT *sec*urity)~~ cancelled due to project commited to it
-	- Worthness:
+	- WX - Worthness:
 		- Reason: required for optimal planning; consumes resources to estimate:(
 		- In points (scale as SP with "W" prefix, eg.: W1, W2)
-		- Formula: TBD
-	- Cost:
+	- CX - Cost:
 		- Reason: some tasks may be undoable due to high costs at the moment
 		- In points (scale as SP with "C" prefix, eg.: C1, C2)
 
